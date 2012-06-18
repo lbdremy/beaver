@@ -1,0 +1,28 @@
+{
+  "name": "beaver",
+  "main": "./index",
+  "description": "",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lbdremy/beaver.git"
+  },
+  "engines": {
+    "node": ">= 0.6.x"
+  },
+  "dependencies": {
+      "sax" : "0.4.x",
+      "solr-client" : "0.1.x",
+      "ftp" : "0.1.x"
+   },
+  "devDependencies": {
+  },
+  "scripts" : {
+    "test" : ""
+  },
+  "author": {
+   "name"  : "Remy Loubradou" ,
+   "email" : "remy.loubradou@gmail.com" ,
+   "url" : "https://twitter.com/#!/lbdremy"
+  }
+}
