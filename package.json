@@ -17,9 +17,11 @@
       "request" : "2.9.x"
    },
   "devDependencies": {
+    "stream-spec" : "*",
+    "stream-tester" : "*"
   },
   "scripts" : {
-    "test" : ""
+    "test" : "node test/*-spec.js"
   },
   "author": {
    "name"  : "Remy Loubradou" ,
