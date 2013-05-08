@@ -11,7 +11,7 @@
     "node": ">= 0.6.x"
   },
   "dependencies": {
-      "sax" : "git://github.com/lbdremy/sax-js.git#more_entities",
+      "sax" : "~0.5.4",
       "solr-client" : "0.2.x",
       "ftp" : "0.1.x",
       "request" : "2.9.x",
